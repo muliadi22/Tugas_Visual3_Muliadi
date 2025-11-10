@@ -1,0 +1,5 @@
+[project]
+name = "PySide Project"
+
+[tool.pyside6-project]
+files = ["admin.py", "admin.ui", "disposisi.py", "disposisi.ui", "main.py", "main.ui", "suratKeluar.py", "suratKeluar.ui", "suratMasuk.py", "suratMasuk.ui", "undangan.py", "undangan.ui"]
